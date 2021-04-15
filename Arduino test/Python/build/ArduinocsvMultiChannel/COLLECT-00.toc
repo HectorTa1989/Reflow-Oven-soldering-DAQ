@@ -1,0 +1,24 @@
+([('ArduinocsvMultiChannel.exe',
+   'D:\\Projects in IBDO\\Reflow oven\\Arduino '
+   'test\\Python\\build\\ArduinocsvMultiChannel\\ArduinocsvMultiChannel.exe',
+   'EXECUTABLE'),
+  ('ArduinocsvMultiChannel.exe.manifest',
+   'D:\\Projects in IBDO\\Reflow oven\\Arduino '
+   'test\\Python\\build\\ArduinocsvMultiChannel\\ArduinocsvMultiChannel.exe.manifest',
+   'BINARY'),
+  ('python37.dll', 'c:\\python37-32\\python37.dll', 'BINARY'),
+  ('VCRUNTIME140.dll', 'c:\\python37-32\\VCRUNTIME140.dll', 'BINARY'),
+  ('_ssl', 'c:\\python37-32\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('pyexpat', 'c:\\python37-32\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('unicodedata', 'c:\\python37-32\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_hashlib', 'c:\\python37-32\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_bz2', 'c:\\python37-32\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_lzma', 'c:\\python37-32\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_socket', 'c:\\python37-32\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('select', 'c:\\python37-32\\DLLs\\select.pyd', 'EXTENSION'),
+  ('libssl-1_1.dll', 'c:\\python37-32\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('libcrypto-1_1.dll', 'c:\\python37-32\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
+  ('base_library.zip',
+   'D:\\Projects in IBDO\\Reflow oven\\Arduino '
+   'test\\Python\\build\\ArduinocsvMultiChannel\\base_library.zip',
+   'DATA')],)
